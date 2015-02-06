@@ -21,3 +21,11 @@ in questo punto preciso
 
 New Title
 ========
+
+Let's try some code
+-------------------
+
+```{r}
+3+4
+```
+
