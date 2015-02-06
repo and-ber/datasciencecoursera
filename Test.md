@@ -14,3 +14,10 @@ or in this other format: [LinkedIn][3]
 
 Prova of new line  
 in questo punto preciso
+
+*Italic*
+**Bold**
+***Both?***
+
+New Title
+=========
